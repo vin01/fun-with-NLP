@@ -1,3 +1,5 @@
+<h2>How to setup stanford-NER</h2>
+
 Step 1. Download stanford-ner from https://nlp.stanford.edu/software/CRF-NER.shtml#Download.
 
 Step 2. Launch it using `java -mx1500m -cp stanford-ner.jar edu.stanford.nlp.ie.NERServer  -loadClassifier classifiers/english.muc.7class.distsim.crf.ser.gz  -port 8080 -outputFormat inlineXML`
