@@ -1,4 +1,4 @@
-<h2>How to setup stanford-NER</h2>
+<h2>How to setup Stanford-NER</h2>
 
 Step 1. Download stanford-ner from https://nlp.stanford.edu/software/CRF-NER.shtml#Download.
 
